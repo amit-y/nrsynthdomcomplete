@@ -1,0 +1,19 @@
+{
+  "name": "nrsynthdomcomplete",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amit-y/nrsynthdomcomplete.git"
+  },
+  "author": "Amit Yathirajadasan <ayathirajadasan@newrelic.com>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/amit-y/nrsynthdomcomplete/issues"
+  },
+  "homepage": "https://github.com/amit-y/nrsynthdomcomplete#readme"
+}
